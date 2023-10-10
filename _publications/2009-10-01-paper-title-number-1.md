@@ -1,6 +1,6 @@
 ---
 title: "Python work example 1"
-collection: publications
+collection: Projects
 ---
 Homework 6: Testing Hypotheses
 
