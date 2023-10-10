@@ -1,6 +1,6 @@
 ---
 title: "Python work example 2"
-collection: publications
+collection: Projects
 ---
 Lab 6: Crime and Penalty
 
