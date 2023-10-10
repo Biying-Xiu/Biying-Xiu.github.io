@@ -2,10 +2,10 @@
 main:
 
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
         
   - title: "Courseworks"
-    url: /courseworks/
+    url: /publications/
     
   - title: "CV"
     url: /cv/
